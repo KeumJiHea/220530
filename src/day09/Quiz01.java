@@ -80,9 +80,6 @@ public class Quiz01 {
 						System.out.println("없는 메뉴입니다.");
 						continue;
 					}
-				}else {
-					System.out.println("다시 입력해주세요.");
-					continue;
 				}
 			}else {
 				System.out.println("다시 입력해주세요.");
